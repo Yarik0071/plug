@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e75ea24b.css",
+    "main.js": "/static/js/main.6f75d4f9.js",
+    "static/js/787.f9aa5528.chunk.js": "/static/js/787.f9aa5528.chunk.js",
+    "static/media/bsgirls.svg": "/static/media/bsgirls.07db9e1b7c2a4294e4f348f3fa891ee9.svg",
+    "static/media/lsgirls.svg": "/static/media/lsgirls.691ee5a7b4661bdcc4065f9730091784.svg",
+    "static/media/Ubuntu-Medium.ttf": "/static/media/Ubuntu-Medium.e37c5546eb1a6efc4818.ttf",
+    "static/media/bgc.png": "/static/media/bgc.5ad134e55686a88ee2df.png",
+    "static/media/mbgc.png": "/static/media/mbgc.717ab75d7e84878cc145.png",
+    "static/media/logo.svg": "/static/media/logo.79f5f662a578d434ed06051fd2003056.svg",
+    "static/media/instagram.svg": "/static/media/instagram.c7e83262a84b029995cfd8863bbd2854.svg",
+    "index.html": "/index.html",
+    "static/media/facebook.svg": "/static/media/facebook.0329471a12db7343127abe4d004be627.svg",
+    "main.e75ea24b.css.map": "/static/css/main.e75ea24b.css.map",
+    "main.6f75d4f9.js.map": "/static/js/main.6f75d4f9.js.map",
+    "787.f9aa5528.chunk.js.map": "/static/js/787.f9aa5528.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e75ea24b.css",
+    "static/js/main.6f75d4f9.js"
+  ]
+}
